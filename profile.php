@@ -19,4 +19,27 @@ require 'includes/header.php';
         </div>
     </div>
 </section>
+
+<section class="section section-soft">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Fokus Mempelajari Skill</span>
+            <h2>Apa yang akan kamu pelajari?</h2>
+        </div>
+        <div class="grid-3">
+            <article class="card">
+                <h3>Data Analysis</h3>
+                <p>Mempelajari teknik dan alat untuk menganalisis data dan mengambil keputusan berbasis data.</p>
+            </article>
+            <article class="card">
+                <h3>Cisco Networking</h3>
+                <p>Mempelajari prinsip-prinsip jaringan komputer dan konfigurasi perangkat jaringan Cisco.</p>
+            </article>
+            <article class="card">
+                <h3>Database Management</h3>
+                <p>Merancang dan mengelola basis data menggunakan SQL dan sistem manajemen basis data.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
